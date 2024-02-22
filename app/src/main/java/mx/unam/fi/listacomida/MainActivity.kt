@@ -39,6 +39,8 @@ class MainActivity : ComponentActivity() {
     }
 }
 
+
+//Prueba de un commit desde android studio
 @Composable
 fun MenuList(platillos: List<Platillo>) {
     LazyColumn {
